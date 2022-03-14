@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.App {
+    width: 800px;
+    height: 100vh;
+    margin-left: 70px;
+}
+
+body {
+    background: linear-gradient(to top, #fefcea, #f1da36)
+}
+
+#root {
+    display: flex;
+    justify-content: center;
+}
+
+.list {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+    font-size: 16px;
+    border: 3px solid #f86605;
+    margin-top: 15px;
+}
+
+.NoListText {
+    font-size: 20px;
+    font-weight: bold;
+    padding-top: 50px;
+    text-transform: uppercase;
+    font-family: "Book Antiqua";
+}
+
+.form {
+    display: flex;
+    justify-content: center;
+}
+

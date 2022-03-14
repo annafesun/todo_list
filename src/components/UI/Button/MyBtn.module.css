@@ -1,0 +1,9 @@
+.my_btn{
+    padding: 0px 15px 0px 15px;
+    border: 3px solid #a88244;
+    background-color: transparent;
+    font-size: 14px;
+    font-weight: bold;;
+    color: saddlebrown;
+    cursor: pointer;
+}
